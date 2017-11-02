@@ -1,0 +1,64 @@
+{
+    "latvanyossagok": [{
+            "cathegory": "Hegymászás",
+            "name": "Hegyestű",
+            "chalories": "150"
+        },
+        {
+            "cathegory": "Hegymászás",
+            "name": "Csobánc",
+            "chalories": "250"
+        },
+        {
+            "cathegory": "Hegymászás",
+            "name": "Szent-György hegy",
+            "chalories": "200"
+        },
+        {
+            "cathegory": "Természet",
+            "name": "Kőtenger",
+            "chalories": "100"
+        },
+        {
+            "cathegory": "Természet",
+            "name": "Kornyi-tó",
+            "chalories": "100"
+        },
+        {
+            "cathegory": "Természet",
+            "name": "Tihanyi-félsziget",
+            "chalories": "150"
+        },
+        {
+            "cathegory": "Várrom",
+            "name": "Kinizsi vár",
+            "chalories": "150"
+        },
+        {
+            "cathegory": "Várrom",
+            "name": "Szigliget",
+            "chalories": "200"
+        },
+        {
+            "cathegory": "Várrom",
+            "name": "Sümeg",
+            "chalories": "150"
+        },
+        {
+            "cathegory": "Város",
+            "name": "Tihany",
+            "chalories": "150"
+        },
+        {
+            "cathegory": "Város",
+            "name": "Balatonfüred",
+            "chalories": "100"
+        },
+        {
+            "cathegory": "Város",
+            "name": "Veszprém",
+            "chalories": "150"
+        }
+
+    ]
+}
